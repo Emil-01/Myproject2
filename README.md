@@ -1,5 +1,5 @@
 # Myproject2
-The simple banking system
+
 Java is a Object Oriented Programming Language .I have done a project to implement Simple Banking
 System .Here I am using single inheritance .In this program we can perform banking operations .In
 parent class programmer is entering the account holder details. In child class methods is created to
